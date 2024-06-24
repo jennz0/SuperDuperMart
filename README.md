@@ -4,6 +4,9 @@
 ## Overview
 This backend component for the Shopping App is developed using Django and the Django REST framework. It serves as the RESTful API to support the frontend Angular application, providing endpoints for user registration, login, product management, order processing, and administrative tasks. The project follows a layered architecture and uses JWT for authentication.
 
+## Database Design
+![db design Image](db_design.png)
+
 ## Features
 **User (Buyer) Features**<br/>
 
